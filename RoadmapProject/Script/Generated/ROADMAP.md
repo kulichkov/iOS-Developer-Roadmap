@@ -17,17 +17,17 @@ Tapping on a link will take you to relevant materials.
                 - [ ] `Method messaging`
                 - [ ] Swizling
                 - [ ] NSZombies and KVO implementation
-        - [ ] [`Swift`](Resources/iOS_Developer/Practical_knowledge/Swift/RESOURCES.md)
-            - [ ] `Closures`
-            - [ ] `Initializers`
-            - [ ] `Generics`
-            - [ ] `Protocols`
-            - [ ] `Structs`
-            - [ ] `Enums`
-            - [ ] Runtime
-                - [ ] [`Method dispatch`](Resources/iOS_Developer/Practical_knowledge/Swift/Runtime/Method_dispatch/RESOURCES.md)
+        - [x] [`Swift`](Resources/iOS_Developer/Practical_knowledge/Swift/RESOURCES.md)
+            - [x] `Closures`
+            - [x] `Initializers`
+            - [x] `Generics`
+            - [x] `Protocols`
+            - [x] `Structs`
+            - [x] `Enums`
+            - [x] Runtime
+                - [x] [`Method dispatch`](Resources/iOS_Developer/Practical_knowledge/Swift/Runtime/Method_dispatch/RESOURCES.md)
         - [ ] `Memory management`
-            - [ ] [`Stack and Heap`](Resources/iOS_Developer/Practical_knowledge/Memory_management/Stack_and_Heap/RESOURCES.md)
+            - [x] [`Stack and Heap`](Resources/iOS_Developer/Practical_knowledge/Memory_management/Stack_and_Heap/RESOURCES.md)
             - [ ] `Value vs Reference type`
             - [ ] [`MRC`](Resources/iOS_Developer/Practical_knowledge/Memory_management/MRC/RESOURCES.md)
             - [ ] [`ARC`](Resources/iOS_Developer/Practical_knowledge/Memory_management/ARC/RESOURCES.md)
