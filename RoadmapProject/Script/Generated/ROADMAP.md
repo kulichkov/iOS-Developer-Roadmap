@@ -4,8 +4,8 @@ Tapping on a link will take you to relevant materials.
 
 - [ ] iOS Developer
     - [ ] Practical knowledge
-        - [ ] [Getting started](Resources/iOS_Developer/Practical_knowledge/Getting_started/RESOURCES.md)
-            - [ ] First pet project ideas
+        - [x] [Getting started](Resources/iOS_Developer/Practical_knowledge/Getting_started/RESOURCES.md)
+            - [x] First pet project ideas
         - [ ] `Languages`
             - [ ] [`Objective-C`](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/RESOURCES.md)
                 - [ ] `Blocks`
